@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "laboratorna_13", "laboratorna_13\laboratorna_13.vcxproj", "{FE50BA50-F131-4E5A-AF32-8A7470BD6EFD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FE50BA50-F131-4E5A-AF32-8A7470BD6EFD}.Debug|x64.ActiveCfg = Debug|x64
+		{FE50BA50-F131-4E5A-AF32-8A7470BD6EFD}.Debug|x64.Build.0 = Debug|x64
+		{FE50BA50-F131-4E5A-AF32-8A7470BD6EFD}.Debug|x86.ActiveCfg = Debug|Win32
+		{FE50BA50-F131-4E5A-AF32-8A7470BD6EFD}.Debug|x86.Build.0 = Debug|Win32
+		{FE50BA50-F131-4E5A-AF32-8A7470BD6EFD}.Release|x64.ActiveCfg = Release|x64
+		{FE50BA50-F131-4E5A-AF32-8A7470BD6EFD}.Release|x64.Build.0 = Release|x64
+		{FE50BA50-F131-4E5A-AF32-8A7470BD6EFD}.Release|x86.ActiveCfg = Release|Win32
+		{FE50BA50-F131-4E5A-AF32-8A7470BD6EFD}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {69BB5F47-4DC2-4B43-9B3D-68A15E658571}
+	EndGlobalSection
+EndGlobal

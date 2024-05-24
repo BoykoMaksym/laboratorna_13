@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\laboratorna_13\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FE50BA50-F131-4E5A-AF32-8A7470BD6EFD}|laboratorna_13\\laboratorna_13.vcxproj|C:\\Users\\user\\source\\repos\\laboratorna_13\\laboratorna_13\\laboratorna_13.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FE50BA50-F131-4E5A-AF32-8A7470BD6EFD}|laboratorna_13\\laboratorna_13.vcxproj|solutionrelative:laboratorna_13\\laboratorna_13.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "laboratorna_13.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\laboratorna_13\\laboratorna_13\\laboratorna_13.cpp",
+              "RelativeDocumentMoniker": "laboratorna_13\\laboratorna_13.cpp",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\laboratorna_13\\laboratorna_13\\laboratorna_13.cpp",
+              "RelativeToolTip": "laboratorna_13\\laboratorna_13.cpp",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-24T13:20:35.625Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
